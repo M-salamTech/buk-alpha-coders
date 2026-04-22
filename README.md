@@ -1,7 +1,8 @@
 # buk-alpha-coders
 Hackathon project by BUK Alpha Coders team
 # BUK Alpha Coders Hackathon Project
-
+## Sample of our past project 
+https://dhillz.netlify.app
 ## Team
 BUK Alpha Coders
 
